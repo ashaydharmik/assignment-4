@@ -1,0 +1,144 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'M PLUS 1', sans-serif;
+}
+.container {
+    width: 1800px;
+    margin: auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+ .sup{
+    background-color: rgb(250, 230, 252);
+    margin-top: 100px;
+    border-top: 1px solid rgb(197, 199, 201);
+    border-bottom: 1px solid rgb(197, 199, 201);
+ }
+ .sup_box{
+    width:20%;
+    padding: 40px;
+    margin: 20px auto;
+    border: 1px solid rgb(187, 185, 185);
+    border-radius: 10px;
+    background-color: white;
+    
+} 
+.sup_box h2{
+    font-size: 15px;
+    font-weight: 300;
+}
+.sup_box h3{
+    font-size: 20px;
+    font-weight:500;
+}
+.sup_box p{
+    padding-top: 10px;
+    font-size: 15px;
+    font-weight: 300;
+}
+.sup_box h4{
+    padding-top: 20px;
+    font-size: 18px;
+    font-weight: 400;
+}
+.sup_box{
+    border-bottom: 5px solid rgb(250, 35, 221);
+} 
+.sup_box .sup_box_box1{
+    border-bottom: 5px solid rgb(191, 25, 233);
+}
+.sup_box .sup_box_box2{
+    border-bottom: 5px solid rgb(250, 35, 164);
+}
+
+.dummy{
+    margin-top: 200px;
+    background-color: rgb(235, 248, 187);
+    height: 500px;
+}
+.box5{
+    width: 48%;
+    margin: 75px auto;
+    border: 1px solid black;
+    background-color: rgb(249, 249, 245);
+    border-radius: 10px;
+}
+.box5 .box5_1{
+    width: 45%;
+    margin: 0px auto; 
+}
+.box5_1 img{
+    width: 100%;
+    height: 345px;
+    margin-left: 22px;
+    margin-top: 3px;
+    border-radius: 10px;
+}
+.box5 .box5_1 h2{
+    font-size: 37px;
+    color:rgb(135, 10, 194) ;
+    font-weight: 400;
+}
+.box5_1 p{
+    font-size: 18px;
+    font-weight: 500;
+}
+.box5 .box5_1 .h2 {
+    font-size: 40px;
+    color:rgb(135, 10, 194) ;
+
+}
+
+.box5_1 small{
+    font-size: 30px;
+    font-weight: 900;
+    color: rgb(153, 0, 255);
+}
+
+
+.final{
+    margin-top: 100px;
+    background-color: antiquewhite;
+}
+.box1{
+    width: 45%;
+    margin: auto;
+    /* background-color: aliceblue; */
+}
+.box1 h2{
+    font-size: 35px;
+    margin-left: 90px;
+}
+.box1 p{
+    font-size: 18px; 
+    margin-left: 90px; 
+}
+.box1 .box1_1{
+    width:50%;
+    height: auto;
+    margin: 40px 0px;
+   
+}
+.box1_1 img{
+    width:200px;
+    height: auto;
+   display: block;
+   margin-left: 140px;
+}
+.box1_1{
+    width: 30%;
+    margin: auto;
+}
+
+.box1_1 h4{
+    font-size: 22px;
+    margin-left: 140px;
+}
+.box1_1 p{
+    font-size: 18px;
+    text-align: center;
+}
